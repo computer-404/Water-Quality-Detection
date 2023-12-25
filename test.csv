@@ -1,0 +1,15 @@
+file_paths,labels
+test/Clean-samples/29.jpg,0
+test/Clean-samples/39.jpg,0
+test/Clean-samples/38.jpg,0
+test/Clean-samples/36.jpg,0
+test/Clean-samples/37.jpg,0
+test/Clean-samples/33.jpg,0
+test/Clean-samples/32.jpg,0
+test/Clean-samples/30.jpg,0
+test/Clean-samples/31.jpg,0
+test/Dirty-samples/15.jpg,1
+test/Dirty-samples/17.jpg,1
+test/Dirty-samples/16.jpg,1
+test/Dirty-samples/18.jpg,1
+test/Dirty-samples/19.jpg,1
